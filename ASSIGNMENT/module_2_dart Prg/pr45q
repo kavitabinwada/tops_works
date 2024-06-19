@@ -1,0 +1,9 @@
+45. Difference between object oriented and object based language.
+A.In object oriented programming, the key concepts are classes and objects.
+object-oriented languages support features like inheritance,encapsulation and
+polymorphism.Dart is an object-oriented language as it support these features.
+In contrast, object based programming is a programming paradigm where every
+this is treated as an object, but it may not necessarily support all the
+features of object oriented programming. object base language typically do not
+support features like inheritance or polymorphism.
+

@@ -1,0 +1,11 @@
+   39. What are the rules of method overriding in Dart?
+   Rules of method overriding are :
+    -> The method name in subclass must be of the same name as in super class.
+    -> @override annotation must be mentioned in the subclass before the method
+    implementation.
+    -> If the superclass method is marked as @nonVirtual, it cannot be overridden
+    in the subclass.
+    -> Also, the method in superclass should not have any private modifier like
+    (_methodName).
+    -> super keyword can be used to target the elements and methods of super
+    class.

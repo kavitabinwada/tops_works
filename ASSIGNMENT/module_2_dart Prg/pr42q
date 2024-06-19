@@ -1,0 +1,4 @@
+42. Can a subclass instance method override a superclass static method?
+A.In Dart, subclass instance methods cannot override superclass static method
+ static method belong to the class itself rather than instances of the class
+ so they are not be overridden by subclass instance method.

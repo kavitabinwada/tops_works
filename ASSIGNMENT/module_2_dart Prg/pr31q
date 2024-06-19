@@ -1,0 +1,13 @@
+ 31. What happens if the parent and the child class have a field with same
+identifier? Are constructors and initializers also inherited to sub classes?
+-> In Dart, if both the parent and the child class have a field with the same
+ identifier, the child class will hide the field of the parent class. This
+ is known as field shadowing.
+-> When you access the field from an instance of the child class, it will
+refer to the field in the child class, not the parent class.
+-> Constructors are not inherited in Dart. However, if a subclass does not
+ define any constructors, it implicitly inherits the default constructor
+from its superclass.
+-> This means that if the superclass has a default constructor, the
+subclass will also have a default constructor.
+-> In Dart, initializers are not inherited by subclasses.

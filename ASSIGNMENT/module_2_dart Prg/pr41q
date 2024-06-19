@@ -1,0 +1,6 @@
+41. What happens when a class implements two interfaces and both
+declare field (variable) with same name?
+A.In Dart if a class implement two interfaces that both declare a field with
+the same name,it will result in a compile time error. This is because Dart does
+not support multiple inheritance and does not provide a way to resolve conflict
+when two interfaces define the same number.

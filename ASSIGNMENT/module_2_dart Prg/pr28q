@@ -1,0 +1,8 @@
+28. Can an interface extend more than one interface in Dart?
+-> Dart does not have a syntax for declaring interfaces. Class declarations
+ are themselves interfaces in Dart.
+-> And to inherit the interface we need to write the keyword 'implements'.
+-> So with keyword 'extend' we cannot inherit multiple interface as it will
+denoted as multiple class inheritance. Thus it is not possible.
+-> Instead of using extends keyword, we must use implements keyword to
+inherit multiple interfaces.

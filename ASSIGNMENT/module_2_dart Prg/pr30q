@@ -1,0 +1,8 @@
+30. Can we pass an object of a subclass to a method expecting an object of
+ the super class? Are static members inherited to sub classes?
+-> We can pass an object of a subclass to a method that expects an object of
+the superclass.
+->This is because Dart supports subtype polymorphism, which means that a
+subclass instance can be treated as an instance of its superclass.
+-> This is useful for writing more generic code that can work with different
+types of objects as long as they inherit from a common superclass.

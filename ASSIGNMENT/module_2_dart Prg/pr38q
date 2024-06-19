@@ -1,0 +1,15 @@
+38.How do you prevent overriding a Dart method without using the final
+modifier?
+-> One way to prevent overriding a Dart method without using the 'final'
+ modifier is to mark the method as @nonVirtual.
+-> The @nonVirtual annotation requires a package 'metal/metal.dart' that is
+ to be imported.
+-> This annotation is used to indicate that a method should not be overridden
+by subclasses.
+-> for example :
+    import 'package:meta/meta.dart';
+    class A{
+        @nonVirtual
+        void show(){        //show method cannot be overridden in any of its
+        }                    //subclasses.
+    }

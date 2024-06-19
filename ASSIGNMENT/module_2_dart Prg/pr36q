@@ -1,0 +1,9 @@
+36.When to overload a method in Dart and when to override it?
+-> Dart does not support overloading directly because Dart uses optional and
+named parameters to achieve similar functionality.
+-> Use method overloading when we want to provide multiple ways to call a
+method with different parameter combinations.
+-> To override method in dart, we use @override annotation in  the child
+class where overriding takes place.
+-> Use overriding when we want to change or extend the behaviour of a method in
+ a subclass to implement the concept of polymorphism.

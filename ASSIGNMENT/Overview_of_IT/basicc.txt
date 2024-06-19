@@ -1,0 +1,47 @@
+*Q1 what is software?what is sofrware engineering?
+ans- Software is intruction that tell a people what to do. Software engineering is 
+discipline concerned about with application of theory knowlwdge and practice to 
+reliable software system for user or costomer.
+*Q2 Explain types of software?
+types of software is:
+1.application software:application software is a computer software package that 
+performs a specific function  for user.
+for example:Microsoft office,paint,powerpoint etc.
+2.system software:system software is designed to run a computer's application 
+programs.it coordinates activities and function of hardware and software.
+for example:os,notepad etc.
+3.driver software:driver software is also known as device driver.device drivers 
+control the devices and peripherals connected to the computer, enabling them to 
+perform their specific tasks.every device that is connected to a computer needs at
+least one device driver to function.
+for example:audio driver,video driver.
+4.middleware:The term middleware describes software that mediates between application
+and system software or between two different kids of application software.
+middleware enables Microsoft windows to talk to Excel and Word.
+for example:database middleware application server middleware.
+5.programming software:this software use by programmer to write the code. it include
+assemblers, compilers,debuggers and interpreters.
+for example:Turbo c,Eclipse,Sublime etc.
+*Q3 what is SDLC? example each phase of SDLC. 
+The software development lifecycle is the cost effctive and time efficient process 
+that development teams to design and build high quality software meets costomer's 
+expectatioins and demands.
+*Q4 what is DFD? Create a DFD diagram on flipcart.
+A deta flow diagram is a graphical view of how data is processed in a system in 
+terms of input and output.
+Data flow diagram (DFD) is a diagram being used frequently in software desine.
+It is visually represents the flow of data throughout processes in a given system.
+*Q5 what is flowchart? create a flowchart to make addition of two numbers.
+A diagram that shows that connections between different stages of a process or parts
+of a system.
+*Q6 What is Use case Diagram? Create a use-case on bill payment on paytm.
+Use-case diagram describe the high level function and scope of a system.
+These diagrams also identify the interactions between the system and its actors.
+The use cases and actors in use-case diagram describe what the system
+does and how the actors use it, but not how the system operates internally.     
+
+
+
+
+
+ 

@@ -1,0 +1,5 @@
+22. Which inheritance is not supported by Dart? Why? What is
+advantage of inheritance?
+Ans.Multiple inheritance is not supported by Dart because it can lead ambiguity.
+advantage:code reuse-ability.
+

@@ -1,0 +1,11 @@
+29. What will happen if a class implements two interfaces and they both have
+ a method with same name and signature?
+-> If a class implements two interfaces having a method with the same name and
+signature, the class will need to provide an implementation for that method
+only once by overriding.
+-> This is because Dart does not support method overloading based on the return
+ type or number of parameters.
+-> If the class provides an implementation for the method that satisfies the
+requirements of both interfaces, then that implementation will be used for
+ both interfaces.
+-> Also, method overriding can be done only once in a class.

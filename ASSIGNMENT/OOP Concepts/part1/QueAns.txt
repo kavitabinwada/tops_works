@@ -1,0 +1,10 @@
+Q1 what is oop?list oop concept.
+ans Object oriented progrsmming (oop)is commonly used when writing code with c++.It
+is concept used in many other programming language as well and it is important
+for all programmers to understand.Object oriented programming is a programming 
+paradigm that uses the conceps of objects and classes.
+Object,Class,Method,inheritence,polymorphism,encapsulation,data abstraction.
+Q2 what is the difference between oop and pop?
+ans oop is Object-Oriented Programming.and pop is Procedure-Oriented Programming.
+OOP has three accessing modes."public","private",and "protected".while POP has no
+specific accessing modes.

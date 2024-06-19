@@ -1,0 +1,7 @@
+32. How do you restrict a member of a class from inheriting by its sub classes?
+-> We can restrict a member of a class from being inherited by its subclasses by
+marking that member as final.
+-> When a member is marked as final, it cannot be overridden or inherited by
+any subclasses.
+-> This effectively restricts the member from being modified or extended in
+any way by subclasses.

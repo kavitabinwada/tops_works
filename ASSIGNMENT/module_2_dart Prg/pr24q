@@ -1,0 +1,9 @@
+Q.Difference between inheritance and polymorphism.
+A.inheritance: inheritance is a mechanism where a new class (sub class or
+derived class) derived attributes and methods from an existing class.
+polymorphism: polymorphism is combination of works 'poly' and morphs which
+collectively  means many forms. polymorphism is the ability of objects of
+different classes to respond to the same method call in different ways.
+ - It allows for flexibility and extensibility in the code by enabling
+ objects to be treated as instances of their superclass, even when they
+ are actually instances of subclasses.

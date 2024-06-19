@@ -1,0 +1,4 @@
+34. Can a class extend by itself in Dart?
+-> No, a class cannot inherit or extends itself.
+-> Even trying to do it, the compiler will show a compile time error because
+it will create a cyclic dependency which is not allowed in dart.

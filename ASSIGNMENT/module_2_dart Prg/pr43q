@@ -1,0 +1,6 @@
+43. Can a subclass static method hide superclass instance method?
+A.Yes,in Dart a superclass instance method with the same name. this is known
+a method hiding. When a subclass defines a static method with the same name as
+an instance method in the subclass will hide the instance method in the super
+class. This can lead to practical confusion so generally not recommended, a good
+practice in object-oriented programming.

@@ -1,0 +1,29 @@
+ 37. What the order is of extends and implements keyword on Dart class
+ declaration?
+-> In dart, extends clause is written before the implements.
+-> using extends we can only inherit one parent class, but using implements we
+can inherit multiple interfaces.
+-> we can see below :
+abstract class A{
+  void show(){}
+}
+abstract class C{
+  void dance(){}
+}
+class D{
+  void call(){}
+}
+class B implements A,C extends D{
+ @override
+  void show(){
+    print('class B method  show called');
+}
+@override
+  void dance() {
+    // Implementation code
+  }
+}
+void main(){
+  var b =B();
+  b.show();
+}
